@@ -4,21 +4,9 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<br clear="both">
-
+<div align="center"
 <img align="center" height="175" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjBtcTd3eW81aHBhdmd0MHZ3MnducDB0MjFjMGhrOTl6Y3MyaThnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<div align="right">
-</div>
+>
 
 ###
 
